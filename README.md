@@ -24,7 +24,7 @@ docker-compose up -d
 
 Now you have the project up and running, enter the URL
 ```bash
-http://localhost:8001/isolation-forest - Isolation forest algorithm
+http://localhost:8001/isolation-forest - Isolation forest algorithm.
 ```
 
 ## Configuration
